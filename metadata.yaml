@@ -1,5 +1,8 @@
 _repo: The-Princess-Aline_327
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Davis, Richard Harding
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/181
     wikipedia: http://en.wikipedia.org/wiki/Richard_Harding_Davis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/327#The-Princess-Aline
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '1995-09-01'
 gutenberg_type: Text
